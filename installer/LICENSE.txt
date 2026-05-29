@@ -1,0 +1,165 @@
+PostureGuard — Лицензионное соглашение
+Версия 1.0, 2025 год
+
+
+Спасибо, что выбрали PostureGuard. Прежде чем начать пользоваться
+приложением, пожалуйста, прочитайте несколько важных условий — мы
+постарались изложить их максимально понятно.
+
+
+Что такое PostureGuard и для чего он предназначен
+--------------------------------------------------
+
+PostureGuard — это бесплатное приложение для личного использования,
+которое помогает следить за осанкой за компьютером. Оно анализирует
+положение головы и плеч через веб-камеру и напоминает выпрямиться,
+если вы начали сутулиться.
+
+Приложение не является медицинским устройством и не предназначено для
+диагностики или лечения каких-либо заболеваний. Если у вас есть боли
+в спине, шее или другие жалобы — пожалуйста, обратитесь к врачу.
+PostureGuard помогает выработать привычку, но не заменяет медицинскую
+помощь.
+
+
+Что вы можете делать с приложением
+------------------------------------
+
+Вы можете свободно устанавливать PostureGuard на любое количество
+своих устройств и пользоваться им в личных целях без каких-либо
+ограничений.
+
+Вы также можете делиться приложением с друзьями и знакомыми —
+пожалуйста, распространяйте только оригинальный установочный файл,
+без изменений и бесплатно.
+
+
+Чего делать не стоит
+---------------------
+
+PostureGuard создан для личного, некоммерческого использования.
+Пожалуйста, не используйте его как часть платного продукта или
+коммерческого сервиса, и не перепродавайте доступ к нему.
+
+Код приложения является закрытым. Мы просим не разбирать, не
+модифицировать и не использовать его компоненты в других проектах.
+
+
+Ваши данные
+-----------
+
+PostureGuard обрабатывает изображение с камеры исключительно на
+вашем устройстве, в реальном времени. Ничего не записывается, не
+сохраняется в облаке и не передаётся куда-либо. Мы не собираем
+никаких данных о вас.
+
+
+Как работает приложение
+-----------------------
+
+PostureGuard предоставляется «как есть». Мы стараемся делать его
+надёжным и полезным, но не можем гарантировать, что оно подойдёт для
+любого устройства или сценария использования. Устанавливая приложение,
+вы принимаете это.
+
+
+Использование сторонних библиотек
+----------------------------------
+
+PostureGuard использует ряд открытых библиотек, которые распространяются
+по своим лицензиям:
+
+    MediaPipe  (Apache 2.0)  —  google.github.io/mediapipe
+    OpenCV     (Apache 2.0)  —  opencv.org
+    PyQt6      (GPL v3)      —  riverbankcomputing.com
+    NumPy      (BSD)         —  numpy.org
+    SoundDevice (MIT)        —  python-sounddevice.readthedocs.io
+    SoundFile  (BSD)         —  python-soundfile.readthedocs.io
+
+
+Если у вас есть вопросы по условиям использования — мы готовы ответить.
+
+Copyright © 2025 PostureGuard. Все права защищены.
+
+-------------------------------------------------------------------------------
+
+PostureGuard — End User License Agreement
+Version 1.0, 2025
+
+
+Thank you for choosing PostureGuard. Before you get started, please
+take a moment to read through a few important points — we've tried to
+keep things as straightforward as possible.
+
+
+What PostureGuard is and what it's for
+---------------------------------------
+
+PostureGuard is a free application for personal use that helps you
+maintain good posture while working at a computer. It uses your webcam
+to track the position of your head and shoulders and reminds you to
+sit up straight when you start to slouch.
+
+The application is not a medical device and is not intended to diagnose
+or treat any medical condition. If you experience back pain, neck pain,
+or any other health concerns, please consult a healthcare professional.
+PostureGuard can help build a healthy habit, but it is not a substitute
+for medical advice or treatment.
+
+
+What you can do with the application
+--------------------------------------
+
+You are free to install PostureGuard on as many of your own devices as
+you like and use it for personal purposes without any restrictions.
+
+You are also welcome to share the application with friends and
+colleagues — please distribute only the original, unmodified installer
+and always free of charge.
+
+
+What we ask you not to do
+--------------------------
+
+PostureGuard is designed for personal, non-commercial use. Please do
+not use it as part of a paid product or commercial service, and do not
+resell access to it.
+
+The application's code is proprietary. We ask that you do not
+reverse-engineer, modify, or use its components in other projects.
+
+
+Your data
+----------
+
+PostureGuard processes your webcam feed entirely on your device, in
+real time. Nothing is recorded, stored in the cloud, or transmitted
+anywhere. We do not collect any personal data about you.
+
+
+How the application works
+--------------------------
+
+PostureGuard is provided "as is". We do our best to make it reliable
+and useful, but we cannot guarantee it will work perfectly on every
+device or in every situation. By installing the application, you
+acknowledge and accept this.
+
+
+Third-party libraries
+----------------------
+
+PostureGuard uses several open-source libraries, each distributed
+under its own license:
+
+    MediaPipe  (Apache 2.0)  —  google.github.io/mediapipe
+    OpenCV     (Apache 2.0)  —  opencv.org
+    PyQt6      (GPL v3)      —  riverbankcomputing.com
+    NumPy      (BSD)         —  numpy.org
+    SoundDevice (MIT)        —  python-sounddevice.readthedocs.io
+    SoundFile  (BSD)         —  python-soundfile.readthedocs.io
+
+
+If you have any questions about these terms, we're happy to help.
+
+Copyright © 2025 PostureGuard. All rights reserved.

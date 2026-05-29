@@ -1,0 +1,121 @@
+PostureGuard Build Log 
+Started: 24-May-26 18:50:31.88 
+ 
+[STEP 1] 
+  [OK] C:\Users\a_markau\AppData\Local\Programs\Python\Python312\python.exe 
+[STEP 2] 
+[STEP 3] 
+[STEP 4] 
+[STEP 5] 
+[generate_alert] Written C:\Users\a_markau\Desktop\PostureGuard\assets\alert.wav (66150 samples, 1.5s)
+[STEP 6] 
+[STEP 7] 
+80 INFO: PyInstaller: 6.20.0, contrib hooks: 2026.5
+80 INFO: Python: 3.12.9
+100 INFO: Platform: Windows-11-10.0.26100-SP0
+100 INFO: Python environment: C:\Users\a_markau\AppData\Local\Programs\Python\Python312
+559 INFO: Module search paths (PYTHONPATH):
+['C:\\Users\\a_markau\\Desktop\\PostureGuard',
+ 'C:\\Users\\a_markau\\Desktop\\PostureGuard',
+ 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\python312.zip',
+ 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\DLLs',
+ 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib',
+ 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312',
+ 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages',
+ 'C:\\Users\\a_markau\\Desktop\\PostureGuard']
+pygame 2.6.1 (SDL 2.28.4, Python 3.12.9)
+Hello from the pygame community. https://www.pygame.org/contribute.html
+793 INFO: Appending 'datas' from .spec
+795 INFO: checking Analysis
+804 INFO: Building because inputs changed
+804 INFO: Looking for Python shared library...
+804 INFO: Using Python shared library: C:\Users\a_markau\AppData\Local\Programs\Python\Python312\python312.dll
+804 INFO: Running Analysis Analysis-00.toc
+804 INFO: Target bytecode optimization level: 0
+804 INFO: Initializing module dependency graph...
+805 INFO: Initializing module graph hook caches...
+812 INFO: Analyzing modules for base_library.zip ...
+1392 INFO: Processing standard module hook 'hook-encodings.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+2159 INFO: Processing standard module hook 'hook-pickle.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+2618 INFO: Processing standard module hook 'hook-heapq.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+2815 INFO: Caching module dependency graph...
+2832 INFO: Analyzing C:\Users\a_markau\Desktop\PostureGuard\main.py
+2863 INFO: Processing standard module hook 'hook-platform.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+2865 INFO: Processing standard module hook 'hook-PyQt6.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+3212 INFO: Processing standard module hook 'hook-PyQt6.QtWidgets.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+4905 INFO: Processing standard module hook 'hook-PyQt6.QtCore.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+7379 INFO: Processing standard module hook 'hook-PyQt6.QtGui.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+17630 INFO: Processing standard module hook 'hook-PyQt6.QtSvg.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+17873 INFO: Processing standard module hook 'hook-cv2.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+18142 INFO: Processing standard module hook 'hook-numpy.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+18395 INFO: Processing standard module hook 'hook-difflib.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+18485 INFO: Processing standard module hook 'hook-multiprocessing.util.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+18619 INFO: Processing standard module hook 'hook-_ctypes.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+18838 INFO: Processing standard module hook 'hook-sysconfig.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+19647 INFO: Processing standard module hook 'hook-matplotlib.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+19818 INFO: Processing pre-safe-import-module hook 'hook-packaging.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+19819 INFO: SetuptoolsInfo: initializing cached setuptools info...
+20096 INFO: Processing pre-safe-import-module hook 'hook-typing_extensions.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+20144 INFO: Processing pre-safe-import-module hook 'hook-gi.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+20246 INFO: Processing standard module hook 'hook-matplotlib.backend_bases.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+20300 INFO: Processing standard module hook 'hook-PIL.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+20353 INFO: Processing standard module hook 'hook-PIL.Image.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+20553 INFO: Processing standard module hook 'hook-xml.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+20561 INFO: Processing standard module hook 'hook-xml.etree.cElementTree.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+20655 INFO: Processing standard module hook 'hook-PIL.ImageFilter.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+21106 INFO: Processing standard module hook 'hook-matplotlib.backends.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+21150 INFO: Processing standard module hook 'hook-matplotlib.pyplot.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+21572 INFO: Processing standard module hook 'hook-dateutil.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+21604 INFO: Processing pre-safe-import-module hook 'hook-six.moves.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_safe_import_module'
+22407 INFO: Processing standard module hook 'hook-sounddevice.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+22421 INFO: Processing pre-safe-import-module hook 'hook-tensorflow.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\pre_safe_import_module'
+22608 INFO: Processing standard module hook 'hook-soundfile.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\_pyinstaller_hooks_contrib\\stdhooks'
+22655 INFO: Analyzing hidden import 'sounddevice._sounddevice'
+22655 ERROR: Hidden import 'sounddevice._sounddevice' not found
+22655 INFO: Processing module hooks (post-graph stage)...
+22667 INFO: Processing standard module hook 'hook-matplotlib.backends.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+22668 INFO: Matplotlib backend selection method: automatic discovery of used backends
+22849 INFO: Trying determine the default backend as first importable candidate from the list: ['QtAgg', 'Qt5Agg', 'Gtk4Agg', 'Gtk3Agg', 'TkAgg', 'WxAgg']
+23077 INFO: Selected matplotlib backends: ['QtAgg']
+23079 INFO: Processing standard module hook 'hook-matplotlib.backends.backend_qtagg.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+23081 INFO: Processing standard module hook 'hook-matplotlib.backends.qt_compat.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+23082 INFO: hook-matplotlib.backends.qt_compat: selected 'PyQt6' as Qt bindings because hook for 'PyQt6' has been run before.
+23239 INFO: Processing standard module hook 'hook-PIL.SpiderImagePlugin.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+23281 INFO: Performing binary vs. data reclassification (425 entries)
+23302 INFO: Looking for ctypes DLLs
+23315 INFO: Analyzing run-time hooks ...
+23316 INFO: Including run-time hook 'pyi_rth_inspect.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23317 INFO: Including run-time hook 'pyi_rth_pkgutil.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23318 INFO: Including run-time hook 'pyi_rth_multiprocessing.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23319 INFO: Including run-time hook 'pyi_rth_mplconfig.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23320 INFO: Processing pre-find-module-path hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\pre_find_module_path'
+23321 INFO: Processing standard module hook 'hook-_pyi_rth_utils.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks'
+23325 INFO: Including run-time hook 'pyi_rth_pyqt6.py' from 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyInstaller\\hooks\\rthooks'
+23337 INFO: Creating base_library.zip...
+23347 INFO: Looking for dynamic libraries
+C:\Users\a_markau\AppData\Local\Programs\Python\Python312\Lib\site-packages\PyInstaller\building\build_main.py:227: UserWarning: The numpy.array_api submodule is still experimental. See NEP 47.
+  __import__(package)
+23974 INFO: Extra DLL search directories (AddDllDirectory): ['C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt6\\Qt6\\bin', 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\numpy.libs', 'C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\cv2\\../../x64/vc14/bin']
+23974 INFO: Extra DLL search directories (PATH): ['C:\\Users\\a_markau\\AppData\\Local\\Programs\\Python\\Python312\\Lib\\site-packages\\PyQt6\\Qt6\\bin']
+24458 INFO: Warnings written to C:\Users\a_markau\Desktop\PostureGuard\build\posture_guard\warn-posture_guard.txt
+24516 INFO: Graph cross-reference written to C:\Users\a_markau\Desktop\PostureGuard\build\posture_guard\xref-posture_guard.html
+24539 INFO: checking PYZ
+24544 INFO: Building because name changed
+24545 INFO: Building PYZ (ZlibArchive) C:\Users\a_markau\Desktop\PostureGuard\build\posture_guard\PYZ-00.pyz
+25010 INFO: Building PYZ (ZlibArchive) C:\Users\a_markau\Desktop\PostureGuard\build\posture_guard\PYZ-00.pyz completed successfully.
+25061 INFO: checking PKG
+25065 INFO: Building because name changed
+25065 INFO: Building PKG (CArchive) PostureGuard.pkg
+51382 INFO: Building PKG (CArchive) PostureGuard.pkg completed successfully.
+51388 INFO: Bootloader C:\Users\a_markau\AppData\Local\Programs\Python\Python312\Lib\site-packages\PyInstaller\bootloader\Windows-64bit-intel\runw.exe
+51388 INFO: checking EXE
+51404 INFO: Rebuilding EXE-00.toc because PostureGuard.exe missing
+51404 INFO: Building EXE from EXE-00.toc
+51404 INFO: Copying bootloader EXE to C:\Users\a_markau\Desktop\PostureGuard\dist\PostureGuard.exe
+51406 INFO: Copying icon to EXE
+51408 INFO: Copying 0 resources to EXE
+51408 INFO: Embedding manifest in EXE
+51409 INFO: Appending PKG archive to EXE
+51491 INFO: Fixing EXE headers
+51979 INFO: Building EXE from EXE-00.toc completed successfully.
+51985 INFO: Build complete! The results are available in: C:\Users\a_markau\Desktop\PostureGuard\dist

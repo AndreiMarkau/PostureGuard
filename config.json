@@ -1,0 +1,21 @@
+{
+  "strictness": "medium",
+  "soft_timeout_sec": 15,
+  "medium_timeout_sec": 10,
+  "hard_timeout_sec": 5,
+  "track_back": true,
+  "track_neck": true,
+  "sound_file": null,
+  "use_default_sound": true,
+  "volume": 0.8,
+  "calibration": null,
+  "grace_period_sec": 30,
+  "keyboard_grace_sec": 10,
+  "away_absence_timeout_sec": 5,
+  "smoothing_window_sec": 3,
+  "head_drop_threshold": 0.85,
+  "shoulder_ratio_threshold": 0.10,
+  "tilt_angle_threshold_deg": 7.0,
+  "autostart": false,
+  "show_streak_timer": true
+}
